@@ -1,1 +1,2 @@
-# bananarama
+# bananaRama
+Lebensmittelverwaltungsanwendung
